@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React, Typescript.
-- 🔭 I’m currently working on Datastructure and Algorithms Problems.
+<!-- - 🌱 I’m currently learning React, Typescript. -->
+<!-- - 🔭 I’m currently working on Datastructure and Algorithms Problems. -->
 - 👯 I’m looking to collaborate on a Front-end or a Full-stack projects.
 - 💬 Ask me about World Politics, Economic systems, Tech, Current Research, Smart bits of code, The weather.
 - 📫 How to reach me: moe.kataya1@gmail.com.
